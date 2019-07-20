@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures test_3'
 long_description 'Installs/Configures test_3'
-version '0.1.2'
+version '0.1.3'
 
 chef_version '>= 13.0'
 
